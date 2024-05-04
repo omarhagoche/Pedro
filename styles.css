@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'arabswell';
-    src: URL('/Assets/fonts/arabswell.ttf') format('truetype');
+    src: URL('./Assets/fonts/arabswell.ttf') format('truetype');
   }
 
 body{
